@@ -30,5 +30,5 @@ Exemplos:
 Cenário: Cadastro com falha devido a e-mail com formato inválido
 
 Dado que a página de cadastro está aberta
-Quando o cliente preencher o campo "endereço de e-mail" com um formato inválido e clica em "finalizar compra"
+Quando o cliente preencher o campo "endereço de e-mail" com um formato inválido e clicar em "finalizar compra"
 Então ele não será cadastrado e receberá uma mensagem de alerta.

@@ -23,7 +23,7 @@ Cenário: Limpar as opções selecionadas
 
 Dado que o cliente está na página do produto "Augusta Pullover Jacket" e selecionou uma opção de tamanho, uma de cor e alterou a quantidade
 Quando ele clicar em "limpar"
-Então as opções de tamanho, cor devem ficar sem seleção e a quantidade deve voltar para 1.
+Então as opções de tamanho e cor devem ficar sem seleção e a quantidade deve voltar para 1.
 
 Cenário: Adicionar produto ao carrinho sem selecionar características
 

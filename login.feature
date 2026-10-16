@@ -22,7 +22,7 @@ Exemplos:
 | usuario        | senha          |
 | usuario_invalido | senha_valida |
 | usuario_valido | senha_invalida |
-| usuario_invalido | senha_invalida|
+| usuario_invalido | senha_invalida |
 
 
  

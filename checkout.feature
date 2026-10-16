@@ -14,7 +14,7 @@ Então a conta deve ser criada e o sistema deve confirmar o cadastro com uma men
 Esquema do Cenário: Cadastro com falha por campo obrigatório não preenchido
 
 Dado que a página de cadastro está aberta
-Quando o cliente deixa o campo obrigatório "<campo>" vazio e clica em "finalizar compra"
+Quando o cliente deixar o campo obrigatório "<campo>" vazio e clicar em "finalizar compra"
 Então o cadastro não deve ser realizado e uma mensagem de alerta deve ser exibida.
 
 Exemplos:

@@ -8,7 +8,7 @@ Para finalizar minha compra
 Cenário: Cadastro com sucesso
 
 Dado que a página de cadastro está aberta
-Quando o cliente preencher todos os campos obrigatórios corretamente e clica em "finalizar compra"
+Quando o cliente preencher todos os campos obrigatórios corretamente e clicar em "finalizar compra"
 Então a conta deve ser criada e o sistema deve confirmar o cadastro com uma mensagem de sucesso.
 
 Esquema do Cenário: Cadastro com falha por campo obrigatório não preenchido

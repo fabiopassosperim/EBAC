@@ -8,7 +8,7 @@ Para inserir no carrinho
 Esquema do Cenário: Escolha de características do produto e quantidade
 
 Dado que o cliente está na página do produto "Augusta Pullover Jacket"
-Quando ele seleciona o tamanho "<tamanho>", a cor "<cor>" e a quantidade "<quantidade>" e clica em "comprar"
+Quando ele selecionar o tamanho "<tamanho>", a cor "<cor>" e a quantidade "<quantidade>" e clicar em "comprar"
 Então o produto deve ser adicionado ao carrinho com o tamanho "<tamanho>", a cor "<cor>" e a quantidade "<quantidade>"
 
 Exemplos:
